@@ -1,0 +1,116 @@
+# 手工定义的 Proxy 列表
+
+theinitium.com
+
+youtu.be
+
+netflix.com
+
+#161 可能以后会和GFWList重复
+9gag.com
+
+#Telegram
+67.198.55.0/24
+91.108.4.0/22
+91.108.8.0/22
+91.108.12.0/22
+91.108.16.0/22
+91.108.56.0/22
+109.239.140.0/24
+149.154.160.0/20
+149.154.164.0/22
+149.154.168.0/22
+149.154.172.0/22
+
+#instagram
+cdninstagram.com
+
+#disqus
+disquscdn.com
+
+gist.github.com
+
+# 首页直连，但子域名需翻墙
+onedrive.live.com
+
+#20 开车
+t66y.com
+91porn.com
+
+#132
+feedly.com
+
+#50 whatsapp
+whatsapp.com
+whatsapp.net
+18.194.0.0/15
+34.224.0.0/12
+
+#54 台湾香港澳门 常用网站
+ptt.cc
+mingpaocanada.com
+mingpao.com
+appledaily.com
+appledaily.tw
+nextmag.com.tw
+thestandnews.com
+
+#60 GMail
+# 手机 smtp 和 imap 需要用到
+gmail.com
+
+#72 #112 Google Voice
+74.125.0.0/16
+
+#85（可能冗余）
+yt3.ggpht.com
+www-google-analytics.l.google.com
+ssl-google-analytics.l.google.com
+partnerad.l.google.com
+pagead.l.google.com
+pagead.google.com
+pagead-tpc.l.google.com
+mobileads.google.com
+ads.google.com
+afd.l.google.com
+
+#175 华尔街邮报
+dowjones.com
+
+#159
+thetvdb.com
+
+#180 OneDrive（可能冗余）
+bcbits.com
+ogma.iad.appboy.com
+odc.officeapps.live.com
+skyapi.live.net
+centralus1.mediap.svc.ms
+dm.files.1drv.com
+mobile.pipe.aria.microsoft.com
+gate.hockeyapp.net
+skyapi.live.net
+api.onedrive.com
+vortex.data.microsoft.com
+
+#183
+mendeley.com
+
+#192 播客收听应用程序 overcast
+overcast.fm
+
+#205 APPLE NEWS
+news-events.apple.com
+news-edge.apple.com
+apple.comscoreresearch.com
+play.itunes.apple.com
+play-cdn.itunes-apple.com.akadns.net
+ls.apple.com
+cvws.apple-dns.net
+news.apple-dns.net
+gateway.fe.apple-dns.net
+akamaiedge.net
+gs-loc.apple.com
+bag.itunes.apple.com
+apple.news
+news.iadsdk.apple.com
