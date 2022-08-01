@@ -114,3 +114,36 @@ gs-loc.apple.com
 bag.itunes.apple.com
 apple.news
 news.iadsdk.apple.com
+
+
+# uniswap 挂了
+uniswap.org
+
+# opensea.io 也挂了
+opensea.io
+
+
+# tiktok
+p16-tiktokcdn-com.akamaized.net
+amemv.com
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+ipstatp.com
+muscdn.com
+musical.ly
+sgpstatp.com
+snssdk.com
+tik-tokapi.com
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+-tiktokcdn-com
+
+
+# jetbrain crack
+jetbra.in
+
+
+
+
