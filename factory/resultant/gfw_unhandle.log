@@ -1,6 +1,5 @@
 cdn*.i-scmp.com
 cdn*.search.xxx
-s3-ap-*.amazonaws.com
 /^https?:\/\/[^\/]+blogspot\.(.*)
 fbcdn*.akamaihd.net
 boxun*.azurewebsites.net
